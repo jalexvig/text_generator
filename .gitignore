@@ -1,0 +1,6 @@
+.idea
+*.swp
+*.pyc
+*.pkl
+*.bz2
+.DS_Store
